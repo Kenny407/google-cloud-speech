@@ -10,5 +10,8 @@
 ```sh
 npm install
 ```
-
+## Run
+```sh
+npm src/speech.js
+```
 ### Enjoy 🚀🌍
