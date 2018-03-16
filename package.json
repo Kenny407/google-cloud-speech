@@ -1,0 +1,32 @@
+{
+  "name": "google-speech",
+  "version": "1.0.0",
+  "description": "Tools for connecting to Google Cloud Speech",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "@google-cloud/speech": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node speech.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kenny407/google-cloud-speech.git"
+  },
+  "keywords": [
+    "google",
+    "speech",
+    "google-cloud",
+    "google-cloud-speech"
+  ],
+  "author": "Kenny Alvizuris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kenny407/google-cloud-speech/issues"
+  },
+  "homepage": "https://github.com/Kenny407/google-cloud-speech#readme"
+}
