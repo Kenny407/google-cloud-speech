@@ -4,7 +4,11 @@
 
 ## Requirements
 - Google Cloud Storage & Google Cloud Speech services activated (a credit card is needed)
-- Configure your API key to authenticate  to Google APIs. [Read HOWTO here](https://cloud.google.com/docs/authentication/api-keys)
+- Configure your API key to authenticate to Google APIs. [Read HOWTO here](https://cloud.google.com/docs/authentication/api-keys)
+- Or just add the following variable in your terminal :D
+```sh
+export GOOGLE_APPLICATION_CREDENTIALS=<path_to_your_key_json_file>
+```
 
 ## Installation 
 ```sh
